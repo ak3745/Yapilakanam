@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{F708B2DE-049C-4781-B55D-0F38C7099499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YapilakanamProcessor", "YapilakanamProcessor\YapilakanamProcessor.csproj", "{7D8EB5E4-4844-483F-956E-513C275B129A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F708B2DE-049C-4781-B55D-0F38C7099499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F708B2DE-049C-4781-B55D-0F38C7099499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F708B2DE-049C-4781-B55D-0F38C7099499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F708B2DE-049C-4781-B55D-0F38C7099499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8EB5E4-4844-483F-956E-513C275B129A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8EB5E4-4844-483F-956E-513C275B129A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8EB5E4-4844-483F-956E-513C275B129A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8EB5E4-4844-483F-956E-513C275B129A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69F9EC1C-8531-4C5E-B54C-A1424CE01B66}
+	EndGlobalSection
+EndGlobal
